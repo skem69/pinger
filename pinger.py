@@ -2,7 +2,7 @@ import requests
 import threading
 import time
 
-bot_tokens = [token1", "token2", "token3"]
+bot_tokens = ["token1", "token2", "token3"]
 
 guild_id="ur guild id"
 
